@@ -1,0 +1,15 @@
+nmeamon 0.03
+
+features:
+
+1 nmea serial port and gpsd monitor 
+2 scans for serial ports and gpsd and makes available in dropdown box
+3 lists common baud rates
+4 shows raw data strings in window
+
+requirements:
+
+linux
+python 2.6
+wxpython
+nmea0183 producing serial device (gps)
